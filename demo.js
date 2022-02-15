@@ -1,1 +1,1 @@
-console.log('hello beautiful')
+onsole.log('hello beautiful')
